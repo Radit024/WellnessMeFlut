@@ -1,0 +1,79 @@
+name: wellnessmeflut
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  get: ^4.6.6
+  connectivity_plus: ^5.0.2
+  shared_preferences: ^2.2.2
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  google_sign_in: ^5.0.7
+  carousel_slider: ^4.2.1
+  flutter_svg_provider: ^1.0.7
+  easy_date_timeline: ^1.0.2
+  intl: ^0.19.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/PoppinsBold.ttf
+          weight: 700
+        - asset: assets/fonts/PoppinsRegular.ttf
+          weight: 400
+        - asset: assets/fonts/PoppinsMedium.ttf
+          weight: 500
+        - asset: assets/fonts/PoppinsSemiBold.ttf
+          weight: 600
+    - family: Alegreya
+      fonts: 
+        - asset: assets/fonts/AlegreyaMedium.ttf
+          weight: 500
+        - asset: assets/fonts/AlegreyaRomanRegular.ttf
+          weight: 400
+    - family: Alegreya Sans
+      fonts: 
+        - asset: assets/fonts/AlegreyaSansMedium.ttf
+          weight: 500
+        - asset: assets/fonts/AlegreyaSansRegular.ttf
+          weight: 400
+    - family: Inter
+      fonts: 
+        - asset: assets/fonts/InterSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/InterRegular.ttf
+          weight: 400
+        - asset: assets/fonts/InterMedium.ttf
+          weight: 500
+    - family: Raleway
+      fonts: 
+        - asset: assets/fonts/RalewaySemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/RalewayMedium.ttf
+          weight: 500
+        - asset: assets/fonts/RalewayRegular.ttf
+          weight: 400
+    - family: Urbanist
+      fonts: 
+        - asset: assets/fonts/UrbanistRomanExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/UrbanistExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/UrbanistBold.ttf
+          weight: 700
+    - family: Open Sans
+      fonts: 
+        - asset: assets/fonts/OpenSansRomanRegular.ttf
+          weight: 400
+        - asset: assets/fonts/OpenSansRomanSemiBold.ttf
+          weight: 600
