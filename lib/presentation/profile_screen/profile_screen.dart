@@ -1,10 +1,10 @@
 import 'controller/profile_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/widgets/custom_checkbox_button.dart';
-import 'package:wellnessmeflut/widgets/custom_elevated_button.dart';
-import 'package:wellnessmeflut/widgets/custom_icon_button.dart';
-import 'package:wellnessmeflut/widgets/custom_switch.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/widgets/custom_checkbox_button.dart';
+import 'package:wellnessmef/widgets/custom_elevated_button.dart';
+import 'package:wellnessmef/widgets/custom_icon_button.dart';
+import 'package:wellnessmef/widgets/custom_switch.dart';
 
 // ignore_for_file: must_be_immutable
 class ProfileScreen extends GetWidget<ProfileController> {

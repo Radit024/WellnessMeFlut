@@ -1,7 +1,7 @@
 import '../controller/sixteen_controller.dart';
 import '../models/gallery_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:wellnessmeflut/core/app_export.dart';
+import 'package:wellnessmef/core/app_export.dart';
 
 // ignore: must_be_immutable
 class GalleryItemWidget extends StatelessWidget {

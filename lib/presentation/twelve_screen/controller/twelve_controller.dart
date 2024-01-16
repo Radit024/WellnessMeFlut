@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/twelve_screen/models/twelve_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/twelve_screen/models/twelve_model.dart';
 import 'package:easy_date_timeline/easy_date_timeline.dart';
 
 /// A controller class for the TwelveScreen.

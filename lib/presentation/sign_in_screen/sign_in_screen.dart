@@ -1,11 +1,11 @@
 import 'controller/sign_in_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/core/utils/validation_functions.dart';
-import 'package:wellnessmeflut/widgets/custom_elevated_button.dart';
-import 'package:wellnessmeflut/widgets/custom_icon_button.dart';
-import 'package:wellnessmeflut/widgets/custom_text_form_field.dart';
-import 'package:wellnessmeflut/domain/googleauth/google_auth_helper.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/core/utils/validation_functions.dart';
+import 'package:wellnessmef/widgets/custom_elevated_button.dart';
+import 'package:wellnessmef/widgets/custom_icon_button.dart';
+import 'package:wellnessmef/widgets/custom_text_form_field.dart';
+import 'package:wellnessmef/domain/googleauth/google_auth_helper.dart';
 
 // ignore_for_file: must_be_immutable
 class SignInScreen extends GetWidget<SignInController> {

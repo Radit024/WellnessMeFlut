@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/welcome_screen/models/welcome_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/welcome_screen/models/welcome_model.dart';
 
 /// A controller class for the WelcomeScreen.
 ///
@@ -12,7 +12,7 @@ class WelcomeController extends GetxController {
   void onReady() {
     Future.delayed(const Duration(milliseconds: 3000), () {
       Get.offNamed(
-        AppRoutes.signInScreen,
+        AppRoutes.landingScreen,
       );
     });
   }

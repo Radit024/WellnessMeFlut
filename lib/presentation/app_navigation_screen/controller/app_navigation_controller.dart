@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/app_navigation_screen/models/app_navigation_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/app_navigation_screen/models/app_navigation_model.dart';
 
 /// A controller class for the AppNavigationScreen.
 ///

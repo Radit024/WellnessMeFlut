@@ -1,11 +1,11 @@
 import 'controller/eleven_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/widgets/app_bar/appbar_leading_iconbutton.dart';
-import 'package:wellnessmeflut/widgets/app_bar/appbar_subtitle_one.dart';
-import 'package:wellnessmeflut/widgets/app_bar/appbar_trailing_iconbutton.dart';
-import 'package:wellnessmeflut/widgets/app_bar/custom_app_bar.dart';
-import 'package:wellnessmeflut/widgets/custom_elevated_button.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/widgets/app_bar/appbar_leading_iconbutton.dart';
+import 'package:wellnessmef/widgets/app_bar/appbar_subtitle_one.dart';
+import 'package:wellnessmef/widgets/app_bar/appbar_trailing_iconbutton.dart';
+import 'package:wellnessmef/widgets/app_bar/custom_app_bar.dart';
+import 'package:wellnessmef/widgets/custom_elevated_button.dart';
 
 class ElevenScreen extends GetWidget<ElevenController> {
   const ElevenScreen({Key? key}) : super(key: key);

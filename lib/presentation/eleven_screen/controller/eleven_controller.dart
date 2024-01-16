@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/eleven_screen/models/eleven_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/eleven_screen/models/eleven_model.dart';
 
 /// A controller class for the ElevenScreen.
 ///

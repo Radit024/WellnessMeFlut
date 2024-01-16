@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/twenty_screen/models/twenty_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/twenty_screen/models/twenty_model.dart';
 
 /// A controller class for the TwentyScreen.
 ///

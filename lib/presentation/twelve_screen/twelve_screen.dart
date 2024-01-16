@@ -1,14 +1,14 @@
 import 'controller/twelve_controller.dart';
 import 'package:easy_date_timeline/easy_date_timeline.dart';
 import 'package:flutter/material.dart';
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/widgets/app_bar/appbar_leading_iconbutton.dart';
-import 'package:wellnessmeflut/widgets/app_bar/appbar_subtitle_one.dart';
-import 'package:wellnessmeflut/widgets/app_bar/appbar_trailing_iconbutton.dart';
-import 'package:wellnessmeflut/widgets/app_bar/custom_app_bar.dart';
-import 'package:wellnessmeflut/widgets/custom_elevated_button.dart';
-import 'package:wellnessmeflut/widgets/custom_floating_button.dart';
-import 'package:wellnessmeflut/widgets/custom_switch.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/widgets/app_bar/appbar_leading_iconbutton.dart';
+import 'package:wellnessmef/widgets/app_bar/appbar_subtitle_one.dart';
+import 'package:wellnessmef/widgets/app_bar/appbar_trailing_iconbutton.dart';
+import 'package:wellnessmef/widgets/app_bar/custom_app_bar.dart';
+import 'package:wellnessmef/widgets/custom_elevated_button.dart';
+import 'package:wellnessmef/widgets/custom_floating_button.dart';
+import 'package:wellnessmef/widgets/custom_switch.dart';
 
 class TwelveScreen extends GetWidget<TwelveController> {
   const TwelveScreen({Key? key}) : super(key: key);

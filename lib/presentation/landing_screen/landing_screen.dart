@@ -1,7 +1,7 @@
 import 'controller/landing_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/widgets/custom_elevated_button.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/widgets/custom_elevated_button.dart';
 
 class LandingScreen extends GetWidget<LandingController> {
   const LandingScreen({Key? key}) : super(key: key);

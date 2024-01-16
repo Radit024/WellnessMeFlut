@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/find_screen/models/find_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/find_screen/models/find_model.dart';
 import 'package:flutter/material.dart';
 
 /// A controller class for the FindScreen.

@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/thirteen_screen/models/thirteen_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/thirteen_screen/models/thirteen_model.dart';
 
 /// A controller class for the ThirteenScreen.
 ///

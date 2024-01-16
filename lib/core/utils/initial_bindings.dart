@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/data/apiClient/api_client.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/data/apiClient/api_client.dart';
 
 class InitialBindings extends Bindings {
   @override

@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/eighteen_screen/models/eighteen_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/eighteen_screen/models/eighteen_model.dart';
 
 /// A controller class for the EighteenScreen.
 ///

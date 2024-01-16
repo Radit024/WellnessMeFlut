@@ -2,8 +2,8 @@ import '../controller/twenty_controller.dart';
 import '../models/bannersection_item_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg_provider/flutter_svg_provider.dart' as fs;
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/widgets/custom_elevated_button.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/widgets/custom_elevated_button.dart';
 
 // ignore: must_be_immutable
 class BannersectionItemWidget extends StatelessWidget {

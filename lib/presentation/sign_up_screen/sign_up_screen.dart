@@ -1,8 +1,8 @@
 import 'controller/sign_up_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/widgets/custom_elevated_button.dart';
-import 'package:wellnessmeflut/widgets/custom_text_form_field.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/widgets/custom_elevated_button.dart';
+import 'package:wellnessmef/widgets/custom_text_form_field.dart';
 
 // ignore_for_file: must_be_immutable
 class SignUpScreen extends GetWidget<SignUpController> {

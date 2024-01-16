@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/sign_up_screen/models/sign_up_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/sign_up_screen/models/sign_up_model.dart';
 import 'package:flutter/material.dart';
 
 /// A controller class for the SignUpScreen.

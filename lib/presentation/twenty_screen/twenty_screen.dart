@@ -3,8 +3,8 @@ import 'controller/twenty_controller.dart';
 import 'models/bannersection_item_model.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/widgets/custom_elevated_button.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/widgets/custom_elevated_button.dart';
 
 // ignore_for_file: must_be_immutable
 class TwentyScreen extends GetWidget<TwentyController> {

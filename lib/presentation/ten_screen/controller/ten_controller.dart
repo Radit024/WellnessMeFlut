@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/ten_screen/models/ten_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/ten_screen/models/ten_model.dart';
 import 'package:flutter/material.dart';
 
 /// A controller class for the TenScreen.

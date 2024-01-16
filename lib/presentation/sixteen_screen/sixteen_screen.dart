@@ -2,11 +2,11 @@ import '../sixteen_screen/widgets/gallery_item_widget.dart';
 import 'controller/sixteen_controller.dart';
 import 'models/gallery_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/widgets/app_bar/appbar_leading_iconbutton.dart';
-import 'package:wellnessmeflut/widgets/app_bar/appbar_subtitle_one.dart';
-import 'package:wellnessmeflut/widgets/app_bar/custom_app_bar.dart';
-import 'package:wellnessmeflut/widgets/custom_elevated_button.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/widgets/app_bar/appbar_leading_iconbutton.dart';
+import 'package:wellnessmef/widgets/app_bar/appbar_subtitle_one.dart';
+import 'package:wellnessmef/widgets/app_bar/custom_app_bar.dart';
+import 'package:wellnessmef/widgets/custom_elevated_button.dart';
 
 class SixteenScreen extends GetWidget<SixteenController> {
   const SixteenScreen({Key? key}) : super(key: key);

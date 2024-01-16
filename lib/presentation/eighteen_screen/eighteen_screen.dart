@@ -2,12 +2,12 @@ import '../eighteen_screen/widgets/userprofile_item_widget.dart';
 import 'controller/eighteen_controller.dart';
 import 'models/userprofile_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/widgets/app_bar/appbar_leading_iconbutton.dart';
-import 'package:wellnessmeflut/widgets/app_bar/appbar_title.dart';
-import 'package:wellnessmeflut/widgets/app_bar/appbar_trailing_image.dart';
-import 'package:wellnessmeflut/widgets/app_bar/custom_app_bar.dart';
-import 'package:wellnessmeflut/widgets/custom_floating_button.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/widgets/app_bar/appbar_leading_iconbutton.dart';
+import 'package:wellnessmef/widgets/app_bar/appbar_title.dart';
+import 'package:wellnessmef/widgets/app_bar/appbar_trailing_image.dart';
+import 'package:wellnessmef/widgets/app_bar/custom_app_bar.dart';
+import 'package:wellnessmef/widgets/custom_floating_button.dart';
 
 class EighteenScreen extends GetWidget<EighteenController> {
   const EighteenScreen({Key? key}) : super(key: key);

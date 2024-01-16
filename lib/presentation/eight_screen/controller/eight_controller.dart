@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/eight_screen/models/eight_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/eight_screen/models/eight_model.dart';
 
 /// A controller class for the EightScreen.
 ///

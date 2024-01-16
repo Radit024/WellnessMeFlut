@@ -1,6 +1,6 @@
 import 'controller/app_navigation_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:wellnessmeflut/core/app_export.dart';
+import 'package:wellnessmef/core/app_export.dart';
 
 // ignore_for_file: must_be_immutable
 class AppNavigationScreen extends GetWidget<AppNavigationController> {

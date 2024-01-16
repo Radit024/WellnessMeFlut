@@ -1,5 +1,5 @@
-import 'package:wellnessmeflut/core/app_export.dart';
-import 'package:wellnessmeflut/presentation/nine_screen/models/nine_model.dart';
+import 'package:wellnessmef/core/app_export.dart';
+import 'package:wellnessmef/presentation/nine_screen/models/nine_model.dart';
 import 'package:flutter/material.dart';
 
 /// A controller class for the NineScreen.
